@@ -6,7 +6,7 @@ function App() {
       <div className="">
         <img src={spotifyLogo} alt="Spotify Logo" />
       </div>
-      <p>NOT CONNECTED</p>
+      <p>NOT CONNECTED!</p>
     </>
   );
 }
